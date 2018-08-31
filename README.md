@@ -1,5 +1,7 @@
 # Okd Kubernetes cluster setup automation
 
+> Currently this project is being reworked to use Okd. Until further notice, expect breakage.
+
 > This is part of the Hobby Okd project. Functionality of the modules is described in the [guide](https://github.com/hobby-okd/guide).
 
 Deploy a secure Kubernetes cluster on [Hetzner Cloud](https://www.hetzner.com/cloud), [Scaleway](https://www.scaleway.com/) or [DigitalOcean](https://www.digitalocean.com/) using [Terraform](https://www.terraform.io/).
